@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kacpe\\RiderProjects\\APBD3\\APBD3\\APBD3.csproj",
+      "projectUniqueName": "C:\\Users\\kacpe\\Documents\\GitHub\\apbd_3\\APBD3.csproj",
       "projectName": "APBD3",
-      "projectPath": "C:\\Users\\kacpe\\RiderProjects\\APBD3\\APBD3\\APBD3.csproj",
+      "projectPath": "C:\\Users\\kacpe\\Documents\\GitHub\\apbd_3\\APBD3.csproj",
       "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kacpe\\RiderProjects\\APBD3\\APBD3\\obj\\",
+      "outputPath": "C:\\Users\\kacpe\\Documents\\GitHub\\apbd_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kacpe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\kacpe\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
